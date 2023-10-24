@@ -1,4 +1,4 @@
-class CreateGreetings < ActiveRecord::Migration[7.0]
+class CreateGreetings < ActiveRecord::Migration[7.1]
   def change
     create_table :greetings do |t|
       t.string :greetings
