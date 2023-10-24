@@ -62,8 +62,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [HELLO WORLD with to apps (front-end)] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[HELLO WORLD with to apps (front-end)]** is a hello world app that display hello world in differents languages
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -194,9 +192,7 @@ If you like this project hit the star button
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank all code reviewers for making this project better.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,7 +201,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
